@@ -1,0 +1,11 @@
+﻿html,
+body,
+header,
+#intro {
+    height:100%;
+}
+
+#intro {
+    background: url('background.JPG') no-repeat;
+    background-size:cover;
+}
